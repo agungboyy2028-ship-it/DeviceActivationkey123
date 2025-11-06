@@ -1,1 +1,14 @@
-# DeviceActivationkey123
+[
+{
+   "device_id":"agung44",
+   "key":"agung444",
+   "exirydate""06-12_2025",
+   "Allowoffline": true
+}
+{
+    "device_id":"agung44",
+    "key":"agung444",
+    "exirydate""15-03_2026",
+    "Allowoffline":false
+    }
+]
